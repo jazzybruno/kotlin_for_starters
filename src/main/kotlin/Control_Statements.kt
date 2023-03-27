@@ -30,6 +30,15 @@ fun main(args: Array<String>){
         else -> println("Weekend")
     }
 //    for loop
+    var fruits = arrayOf("Orange", "Apple", "Mango", "Banana")
+
+    for (index in fruits.indices) {
+        println(fruits[index])
+    }
+
+    for (item in 5 downTo 1 step 2) {
+        println(item)
+    }
 //    while loop
 //    Break and continue
 }
