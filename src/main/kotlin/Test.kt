@@ -1,4 +1,6 @@
 
     fun main(args: Array<String>){
-        println("Welcome to the Kotlin Developer");
+        var name : String = "Jazzy Bruno";
+        println("Welcome to the Kotlin Develpement Course $name");
+        println("No semi-colon but i can run")
     }
