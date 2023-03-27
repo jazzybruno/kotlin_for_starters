@@ -40,5 +40,23 @@ fun main(args: Array<String>){
         println(item)
     }
 //    while loop
+    var i = 5;
+    while (i > 0) {
+        println(i)
+        i--
+    }
+
+    do{
+        println(i)
+        i--
+    }while(i > 0)
 //    Break and continue
+    var i = 0;
+    while (i++ < 100) {
+        println(i)
+        if( i == 3 ){
+            break
+        }
+
+    }
 }
