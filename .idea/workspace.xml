@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4d55a7-3c5f-441e-82f4-91d006709180" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Classes/First.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practises/Palindrome.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Collections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Control_Statements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Control_Statements.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/DataTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Lists.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Map[.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Map[.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Ranges.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Sets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Sets.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Strings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Functional/Variables.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,20 +49,6 @@
       <recent name="C:\Users\HP\Downloads\Compressed\kotlinStarter\src\main\kotlin\Functional" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestKt" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.TestKt" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,7 +61,8 @@
       <workItem from="1679876889127" duration="1172000" />
       <workItem from="1679940872335" duration="15000000" />
       <workItem from="1679966086491" duration="4723000" />
-      <workItem from="1679997953208" duration="342000" />
+      <workItem from="1679997953208" duration="1344000" />
+      <workItem from="1680002453375" duration="3087000" />
     </task>
     <servers />
   </component>
