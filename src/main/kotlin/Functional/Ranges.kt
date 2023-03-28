@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     // range to
     println("The following is a range created with the range to function")

@@ -1,3 +1,5 @@
+package Functional
+
 fun main(){
     val theSet = setOf<String>("one", "two", "three", "four");
     var themutableSet = mutableSetOf<String>("one", "two", "three", "four")
@@ -24,6 +26,6 @@ fun main(){
     println("Printing the size of the set");
     println("I am printing the size which is:" + theSet.size)
 
-    // in the case of the mutable sets we can also use the add and remove to add anf remove items
+    // in the case of the mutable sets we can also use the Functional.add and remove to Functional.add anf remove items
 
 }

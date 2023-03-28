@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     // The operators are :
 //    Arithmetic

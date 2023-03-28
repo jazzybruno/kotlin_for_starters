@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     println("This is an array file in kotlin for starters");
     //simple array

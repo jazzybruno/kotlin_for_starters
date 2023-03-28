@@ -1,4 +1,4 @@
-import jdk.internal.net.http.common.Pair.pair
+package Functional
 
 fun main(){
     var theMap = mapOf<String , Int>("One" to 1 , "two" to 2, "three" to 3, "four" to 4);

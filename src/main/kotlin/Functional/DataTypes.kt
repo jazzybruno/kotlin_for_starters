@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     val a: Int = 10000
     val d: Double = 100.00

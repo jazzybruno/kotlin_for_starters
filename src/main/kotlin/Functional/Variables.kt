@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     var myName = "Jazzy Bruno";
     val myGender = "Male";

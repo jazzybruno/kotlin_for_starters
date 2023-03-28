@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     var myName : String;
     var quotes = "Hello World my names is 'Jazzy Bruno'  ";

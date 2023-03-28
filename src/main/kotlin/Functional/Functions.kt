@@ -1,3 +1,5 @@
+package Functional
+
 fun main(args: Array<String>){
     var num1 = 10;
     var num2 = 20;
