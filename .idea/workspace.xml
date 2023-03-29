@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4d55a7-3c5f-441e-82f4-91d006709180" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practises/Vowels.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,8 @@
       <workItem from="1679940872335" duration="15000000" />
       <workItem from="1679966086491" duration="4723000" />
       <workItem from="1679997953208" duration="1344000" />
-      <workItem from="1680002453375" duration="3087000" />
+      <workItem from="1680002453375" duration="3554000" />
+      <workItem from="1680108259892" duration="2425000" />
     </task>
     <servers />
   </component>
