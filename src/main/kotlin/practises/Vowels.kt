@@ -24,7 +24,7 @@ fun remove_vowels(sentenceArray : MutableList<Char>){
     while (i <= sentenceArray.size -1){
         for (j in 1..newSentenceArray.size-1){
             if(sentenceArray[i] == newSentenceArray.get(j)){
-                println("Voewl letter found: $i");
+                println("Vowel letter found: $i");
             }
         }
     }
