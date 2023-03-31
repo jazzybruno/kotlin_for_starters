@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4d55a7-3c5f-441e-82f4-91d006709180" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Classes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Classes/UserClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Classes/First.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Classes/First.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practises/Vowels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practises/Vowels.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,8 @@
       <workItem from="1680002453375" duration="3554000" />
       <workItem from="1680108259892" duration="4024000" />
       <workItem from="1680160049650" duration="2101000" />
-      <workItem from="1680200367721" duration="2057000" />
+      <workItem from="1680200367721" duration="7440000" />
+      <workItem from="1680269174814" duration="1011000" />
     </task>
     <servers />
   </component>

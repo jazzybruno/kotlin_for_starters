@@ -1,7 +1,5 @@
 package Classes
 
-import java.util.*
-
 class Tutorial {
     private var name : String = "Tutorials point";
     fun printMessage(){
@@ -19,7 +17,7 @@ class Tutorial {
 }
 
 // type alias
-typealias User = Triple<String ,String ,  Int>;
+typealias User = Triple<String ,String , Int>;
 class userInfo{
     public var username = "Jazzy Bruno" ;
     public var age = 12;
