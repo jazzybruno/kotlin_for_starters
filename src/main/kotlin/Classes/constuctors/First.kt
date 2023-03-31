@@ -1,4 +1,4 @@
-package Classes
+package Classes.constuctors
 
 class Tutorial {
     private var name : String = "Tutorials point";
@@ -23,7 +23,7 @@ class userInfo{
     public var age = 12;
     public var schoolName = "Rwanda Coding Academy";
 
-    fun returnUserDetails():User{
+    fun returnUserDetails(): User {
         return Triple(username , schoolName , age);
     }
 

@@ -1,4 +1,4 @@
-package Classes
+package Classes.constuctors
 
 class UserClass{
     var firstName : String;

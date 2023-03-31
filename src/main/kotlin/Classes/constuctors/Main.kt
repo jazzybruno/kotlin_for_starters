@@ -1,4 +1,4 @@
-package Classes
+package Classes.constuctors
 
 fun main(args: Array<String>){
     var user1 : UserClass;
